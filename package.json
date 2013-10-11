@@ -1,0 +1,15 @@
+{
+    "name": "oct11-kata",
+    "version": "0.0.1",
+    "scripts": {
+        "test": "mocha test.js"
+    },
+    "dependencies": {
+        "karma": "*",
+        "karma-junit-reporter": "*",
+        "mocha": "*",
+        "karma-mocha": "*",
+        "chai": "*",
+        "require": "*"
+    }
+}
